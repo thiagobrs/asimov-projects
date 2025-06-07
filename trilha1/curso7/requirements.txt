@@ -1,0 +1,10 @@
+ipykernel
+openai>=1.0.0
+python-dotenv
+yfinance
+pandas
+numpy
+matplotlib
+openmeteo-requests
+requests-cache 
+retry-requests 
