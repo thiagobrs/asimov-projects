@@ -8,3 +8,8 @@ matplotlib
 openmeteo-requests
 requests-cache 
 retry-requests 
+pyaudio
+SpeechRecognition
+sounddevice
+Pillow
+playsound==1.2.2

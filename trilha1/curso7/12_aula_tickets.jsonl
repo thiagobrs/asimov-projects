@@ -1,0 +1,9 @@
+{ "item": { "ticket_text": "My monitor won't turn on!", "correct_label": "Hardware" } }
+{ "item": { "ticket_text": "I'm in vim and I can't quit!", "correct_label": "Software" } }
+{ "item": { "ticket_text": "Best restaurants in Cleveland?", "correct_label": "Other" } }
+{ "item": { "ticket_text": "My laptop is running slow", "correct_label": "Hardware" } }
+{ "item": { "ticket_text": "How do I reset my password?", "correct_label": "Software" } }
+{ "item": { "ticket_text": "What is the weather like today?", "correct_label": "Other" } }
+{ "item": { "ticket_text": "My printer is jammed", "correct_label": "Hardware" } }
+{ "item": { "ticket_text": "I can't connect to the Wi-Fi", "correct_label": "Software" } }
+{ "item": { "ticket_text": "Where can I find a good coffee shop?", "correct_label": "Other" } }
